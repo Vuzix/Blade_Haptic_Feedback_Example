@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vibration_sample</string>
+    <string name="vib_samp_cant_find">No_vibrator_on_</string>
+</resources>
